@@ -1,0 +1,12 @@
+{
+  "name": "companion-drones-mjlfix-tfp",
+  "version": "3.1.2",
+  "title": "Companion Drones for 2.0_FIXTFP",
+  "author": "loltorres9 (TFP fixes); Maoman, MrJakobLaich, kubiixx, Klonan (original)",
+  "homepage": "https://github.com/loltorres9/Companion_Drone_Fix",
+  "description": "Fork of \"Companion Drones for 2.0\" (companion-drones-mjlfix) by Maoman, with two bugfixes: drones no longer get stuck on unbuildable ghosts (e.g. on water) and no longer fly extremely far away from the player (jobs limited to 48 tiles). Prototype names are unchanged; disable the original mod before using this one. Credits: Klonan (original Companion Drones), kubiixx, MrJakobLaich, Maoman.",
+  "dependencies": [
+    "base >= 2.0.0"
+  ],
+  "factorio_version": "2.0"
+}
